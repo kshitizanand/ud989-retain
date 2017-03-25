@@ -58,6 +58,6 @@ $(function(){
             this.noteList.html( htmlStr );
         }
     };
-
+    
     octopus.init();
 });
